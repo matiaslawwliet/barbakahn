@@ -95,7 +95,7 @@ async function leerComando(comando, args, mensaje) {
                         embeds: [{
                             color: 3447003,
                             title: "Barbakahn BOT",
-                            description: "Si queres colaborar con el mantenimiento del bot, podés agregarme a Discord: Matias Lawwliet#8113",
+                            description: "Si queres colaborar con el mantenimiento del bot, podés agregarme a Discord: https://discord.com/users/574120142896627713",
                             fields: [
                                 {
                                     name:`${prefix}sonidos`,
